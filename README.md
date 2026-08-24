@@ -59,6 +59,25 @@ Every session follows the same four-part shape:
 You can do aerobic and resistance work on separate days and combine them later
 as you progress.
 
+## Links from the documents
+
+GitHub's inline PDF viewer rasterizes pages, so links printed inside these PDFs
+are **not clickable on the GitHub website**. They are mirrored here in Markdown
+so they work from a browser or phone. To use a PDF with live links instead, hit
+"Download raw file" on its page and open it in a normal PDF reader.
+
+**Exercise videos** — see [exercises/README.md](exercises/README.md) for the
+weekly routines, the standing/seated split, and the 4-week resistance cycle.
+
+**References cited in the program manual:**
+
+| Link | Where it appears |
+| --- | --- |
+| [VCH Virtual Health](http://www.vch.ca/your-care/virtual-health) | Privacy and security of virtual care encounters (introduction, and Appendix A) |
+| [HealthLink BC — low blood sugar](https://www.healthlinkbc.ca/health-topics/aa20831) | Symptoms of low blood sugar (Appendix E, exercise and blood sugar monitoring with diabetes) |
+| [Diabetes Canada](https://www.diabetes.ca/) | General diabetes information (Appendix E) |
+| [Diabetes College — Health e-University](https://www.healtheuniversity.ca/en/DiabetesCollege/) | General diabetes information (Appendix E) |
+
 ## Conventions
 
 - New weekly sets go in `exercises/`, named so they sort in program order —
