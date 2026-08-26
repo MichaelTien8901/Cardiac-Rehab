@@ -26,12 +26,36 @@ The standing resistance video is item 10 of YouTube playlist
 [`PLkETa5i0ewgX6_Dfb5XeraB2bfzornvp5`](https://www.youtube.com/playlist?list=PLkETa5i0ewgX6_Dfb5XeraB2bfzornvp5),
 which is where the other routines in the cycle are likely to be found.
 
+## Set 6 — Dance (aerobic) + dumbbells
+
+Source: [Exercise Set 6.pdf](Exercise%20Set%206.pdf)
+
+| Routine | Standing | Seated |
+| --- | --- | --- |
+| Aerobic — dance | [?video](https://www.youtube.com/watch?v=8HN1DbBtTcA) | [video](https://www.youtube.com/watch?v=ogKlUrnZWUY) |
+| Resistance — dumbbells | [video](https://www.youtube.com/watch?v=eKKMYX5fjW4) | [video](https://www.youtube.com/watch?v=E188slxISG8) |
+| Cool down — seated yoga (optional) | — | [video](https://www.youtube.com/watch?v=3ZvmKOPoFVo) |
+| *Jane Fonda:  Fat Burning Funk Dance Workout | [video](https://www.youtube.com/watch?v=uJLMS5bp0mI) | NA |
+No dumbbells? Water bottles or soup cans work.
+
+The PDF's printed dumbbell graphics cover goblet squat, bent-over close-grip
+row, alternating chest press, unilateral shoulder press, elbow flexion (curl),
+bent-over elbow extension (kickback), and a supported single-leg stance. All
+are 1–3 sets of 10–15 reps with 60 seconds rest, except the balance hold —
+2–3 sets of 15–30 seconds. The cool-down stretching graphics follow.
+
+This set also reprints the program's general strength-training guidance: never
+hold your breath, learn the movement before adding weight, two seconds up and
+three seconds down, and if you can't manage 8 reps the weight is too heavy.
+Progress by adding 1–2 reps first; once you can do 15–17, add the smallest
+weight increment available and drop back to 10–15.
+
 ## The 4-week resistance cycle
 
 Resistance training rotates through four equipment types, one per week:
 
 1. Bodyweight ← week 1
-2. Dumbbells
+2. Dumbbells ← set 6
 3. Bands
 4. Balance / posture
 
@@ -53,14 +77,29 @@ Aerobic and resistance can be done on separate days and combined later as you
 progress. Your Case Manager sets the frequency that's right for you — the
 numbers above are the program's general guidance, not a prescription.
 
+## Scaling the routine
+
+The sets print the same advice for adjusting difficulty:
+
+**Too easy** — repeat the routine once more; run it on consecutive days or with
+no more than one rest day between sessions; combine two or three routines
+back-to-back for a full hour; build volume by going more often (5 days/week) or
+longer (30 minutes or more). Ask your Case Manager for harder options.
+
+**Too hard** — do one activity a day (day 1 aerobic, day 2 resistance, day 3
+walk), or split the routine across the day (morning aerobic, afternoon
+resistance, evening stretch). Start with the seated options before the standing
+ones, and keep moving through the day — any movement beats none. Ask your Case
+Manager for easier options.
+
 ## Adding a new week
 
-1. Drop the PDF in this folder as `Week NN Exercise Set (Focus).pdf` — e.g.
-   `Week 02 Exercise Set (Dumbbells).pdf` — so it sorts in program order.
-2. Add a section above with its video links, newest week last.
+1. Drop the PDF in this folder as `Exercise Set N.pdf`, matching the number the
+   program prints on the sheet — e.g. `Exercise Set 7.pdf`.
+2. Add a section above with its video links, newest set last.
 
 Extract the links with:
 
 ```bash
-pdftotext "Week 02 Exercise Set (Dumbbells).pdf" - | grep -oE 'https?://[^ )>,]+' | sort -u
+pdftotext "Exercise Set 7.pdf" - | grep -oE 'https?://[^ )>,]+' | sort -u
 ```

@@ -16,6 +16,8 @@ scattered across email attachments.
 | --- | --- |
 | [VGH Cardiac Rehab Program Details.pdf](Info/VGH%20Cardiac%20Rehab%20Program%20Details.pdf) | Welcome letter and program logistics — weekly in-person exercise class, the Monday newsletter, on-demand exercise videos, how to reach your Case Manager, and how to book time with the dietitian, cardiac counsellor, or psychiatrist. |
 | [VGH Program Manual.pdf](Info/VGH%20Program%20Manual.pdf) | The full program manual (last revised Sept 2023). Six chapters plus appendices — see the outline below. |
+| [#8 - Understanding Heart Failure.pdf](Info/%238%20-%20Understanding%20Heart%20Failure.pdf) | Heart failure basics (updated Feb 2024) — how the heart pumps, weak vs. stiff pump, causes, the list of signs to watch for, the tests used to diagnose it, ejection fraction, treatment, and advance care planning. |
+| [#8 - Healthy Eating for Heart Failure.pdf](Info/%238%20-%20Healthy%20Eating%20for%20Heart%20Failure.pdf) | The dietitian's low-sodium handout — why sodium makes the heart work harder, the 2,300–3,000 mg/day target, reading the %DV on a Nutrition Facts table, and practical ways to cut sodium. |
 
 The manual is organised around the program's **B.E.A.T.T.** goals:
 
@@ -44,6 +46,7 @@ infographic.
 | File | What it is |
 | --- | --- |
 | [First Week Exercise Set (Introduction).pdf](exercises/First%20Week%20Exercise%20Set%20(Introduction).pdf) | The introductory week of the Virtual Cardiac Rehab exercise program — how to structure a session, links to the standing and seated video routines, printed resistance and stretching graphics, and guidance on scaling the routine up or down. |
+| [Exercise Set 6.pdf](exercises/Exercise%20Set%206.pdf) | Dance aerobic routine plus the dumbbell week of the resistance cycle — standing and seated videos, an optional seated yoga cool-down, printed dumbbell and stretching graphics, and the program's general strength-training tips. |
 
 Every session follows the same four-part shape:
 
@@ -78,10 +81,20 @@ weekly routines, the standing/seated split, and the 4-week resistance cycle.
 | [Diabetes Canada](https://www.diabetes.ca/) | General diabetes information (Appendix E) |
 | [Diabetes College — Health e-University](https://www.healtheuniversity.ca/en/DiabetesCollege/) | General diabetes information (Appendix E) |
 
+**References cited in the heart failure handouts:**
+
+| Link | Where it appears |
+| --- | --- |
+| [HealthLink BC — heart failure](https://www.healthlinkbc.ca/kb/content/special/hw44415.html#tp17534) | Further reading (Understanding Heart Failure) |
+| [Canadian Cardiovascular Society](https://www.ccs.ca) | Further reading (Understanding Heart Failure) |
+| [Canadian Heart Failure Network](https://www.chfn.ca) | Further reading (Understanding Heart Failure) |
+| [Heart Failure Society of America](https://www.hfsa.org) | Further reading (Understanding Heart Failure) |
+| [David's salt-free herb and spice blends](https://www.qualifirst.com/shop?query=david) | Flavouring food without salt (Healthy Eating for Heart Failure) |
+
 ## Conventions
 
-- New weekly sets go in `exercises/`, named so they sort in program order —
-  e.g. `Week 02 Exercise Set (Dumbbells).pdf`.
+- New weekly sets go in `exercises/`, named for the number the program prints
+  on the sheet — e.g. `Exercise Set 7.pdf`.
 - Reference material that isn't a weekly set goes in `Info/`.
 - **Personal health information stays out of this repo.** Activity logs, lab
   results, and case-manager correspondence are covered by `.gitignore`, but the
