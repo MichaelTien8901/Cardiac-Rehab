@@ -28,7 +28,7 @@ which is where the other routines in the cycle are likely to be found.
 
 ## Set 6 — Dance (aerobic) + dumbbells
 
-Source: [Exercise Set 6.pdf](Exercise%20Set%206.pdf)
+* Source: [Exercise Set 6.pdf](Exercise%20Set%206.pdf)
 
 | Routine | Standing | Seated |
 | --- | --- | --- |
@@ -36,15 +36,16 @@ Source: [Exercise Set 6.pdf](Exercise%20Set%206.pdf)
 | Resistance — dumbbells | [video](https://www.youtube.com/watch?v=eKKMYX5fjW4) | [video](https://www.youtube.com/watch?v=E188slxISG8) |
 | Cool down — seated yoga (optional) | — | [video](https://www.youtube.com/watch?v=3ZvmKOPoFVo) |
 | *Jane Fonda:  Fat Burning Funk Dance Workout | [video](https://www.youtube.com/watch?v=uJLMS5bp0mI) | NA |
-No dumbbells? Water bottles or soup cans work.
 
-The PDF's printed dumbbell graphics cover goblet squat, bent-over close-grip
+* No dumbbells? Water bottles or soup cans work.
+
+* The PDF's printed dumbbell graphics cover goblet squat, bent-over close-grip
 row, alternating chest press, unilateral shoulder press, elbow flexion (curl),
 bent-over elbow extension (kickback), and a supported single-leg stance. All
 are 1–3 sets of 10–15 reps with 60 seconds rest, except the balance hold —
 2–3 sets of 15–30 seconds. The cool-down stretching graphics follow.
 
-This set also reprints the program's general strength-training guidance: never
+* This set also reprints the program's general strength-training guidance: never
 hold your breath, learn the movement before adding weight, two seconds up and
 three seconds down, and if you can't manage 8 reps the weight is too heavy.
 Progress by adding 1–2 reps first; once you can do 15–17, add the smallest
