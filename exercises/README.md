@@ -51,11 +51,41 @@ three seconds down, and if you can't manage 8 reps the weight is too heavy.
 Progress by adding 1–2 reps first; once you can do 15–17, add the smallest
 weight increment available and drop back to 10–15.
 
+## Set 9b — Salsa dance (aerobic) + bodyweight
+
+* Source: [Exercise Set 9b.pdf](Exercise%20Set%209b.pdf)
+
+| Routine | Standing | Seated |
+| --- | --- | --- |
+| Aerobic — salsa dance with Fonda | [video](https://youtu.be/4vXPWfaM5mQ?si=xnnPZQzCXdVR40bf) | — |
+| Aerobic — dance | — | [video](https://www.youtube.com/watch?v=PVlKqqpVUy0) |
+| Aerobic — advanced | [video](https://www.youtube.com/watch?v=e8opMY-SoZc) | [video](https://www.youtube.com/watch?v=e8opMY-SoZc) |
+| Resistance — bodyweight | [video](https://www.youtube.com/watch?v=ybVMu31DLQU) | [video](https://www.youtube.com/watch?v=ybVMu31DLQU) |
+| Resistance — advanced (40 min) | — | [video](https://www.youtube.com/watch?v=hzYCL86BFH8) |
+
+* The advanced aerobic and bodyweight videos each cover both standing and seated
+options in one video.
+
+* Cool down: the printed stretching graphics, or this
+[Tai Chi routine](https://www.youtube.com/watch?v=B9wQ6VLcoeA) as an alternative.
+
+* Equipment: a chair and a wall.
+
+* The PDF's printed bodyweight graphics cover chair squat, wall push-up,
+shoulder blade squeeze, bridge, step-up, and bird dog — all 2–3 sets of 12
+reps with 60 seconds rest — plus a heel-to-toe standing balance hold, 3–5 sets
+of 15–30 seconds per side. Each comes with easier and harder variations.
+
+* This set also prints the talk test and RPE scale for aerobic intensity: aim to
+be able to talk but not sing (moderate to somewhat hard, RPE 3–4). Slow down if
+you're gasping, exceed your target heart rate, or have chest, arm, back, or jaw
+discomfort, irregular heartbeats, dizziness, or nausea.
+
 ## The 4-week resistance cycle
 
 Resistance training rotates through four equipment types, one per week:
 
-1. Bodyweight ← week 1
+1. Bodyweight ← week 1, set 9b
 2. Dumbbells ← set 6
 3. Bands
 4. Balance / posture
